@@ -1,1 +1,1 @@
-# 2024.11-KCSE_Optimizing_Healtcare_premium_Prediction_with_Synthetic_data
+# [2024.11-KAICTS] Optimizing Healtcare premium Prediction with Synthetic data

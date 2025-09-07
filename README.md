@@ -1,1 +1,1 @@
-# [2024.11-KAICTS] Optimizing Healtcare premium Prediction with Synthetic data
+# [2024.11-KAICTS] Optimizing Healthcare premium Prediction with Synthetic data
